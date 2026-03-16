@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.hover{
+    @apply hover:bg-gray-600 hover:h-12 hover:rounded-3xl hover:w-36 hover:text-center active:fill-amber-50
+}
